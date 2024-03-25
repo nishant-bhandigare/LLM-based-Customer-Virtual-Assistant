@@ -1,0 +1,142 @@
+[
+  {
+    "user_input": "Hi, this is John. I am doing good, how are you doing?",
+    "target_output": "I am fine, thank you. How may I help you today?"
+  },
+  {
+    "user_input": "I am facing some issues with my laptop.",
+    "target_output": "I am sorry to hear that, please be assured that your problem will be resolved as early as possible. Can you please explain a bit more about the problem?"
+  },
+  {
+    "user_input": "Yes, my laptop crashes while I am using it.",
+    "target_output": "Before proceeding, can you confirm that you're calling regarding this problem for the first time?"
+  },
+  {
+    "user_input": "Yes, this is the first time I am reporting this issue.",
+    "target_output": "Got it! Can you please help me with your full name?"
+  },
+  {
+    "user_input": "Sure, My name is John Doe.",
+    "target_output": "Can you please tell me your contact number?"
+  },
+  {
+    "user_input": "Yes, my phone number is 7894561230.",
+    "target_output": "Let me repeat your phone number, 7894561230. Is it correct?"
+  },
+  {
+    "user_input": "Yes, it is correct.",
+    "target_output": "Please tell me the make and model of your laptop."
+  },
+  {
+    "user_input": "Sure, it is a MacBook Air.",
+    "target_output": "Do you know the model number of your laptop?"
+  },
+  {
+    "user_input": "No, I do not know the model number.",
+    "target_output": "It is okay, not a problem. Is it okay for our engineer to give you a call regarding your issue?"
+  },
+  {
+    "user_input": "Yes, you can contact me.",
+    "target_output": "At what date and time are you available for the call?"
+  },
+  {
+    "user_input": "At 9 am, on this Sunday?",
+    "target_output": "I am sorry, this is out of our working hours. Is it okay to call you on Monday between 11 am to 10 pm?"
+  },
+  {
+    "user_input": "Sure, I am available then.",
+    "target_output": "Alright, a representative or technician will call you at the mentioned time."
+  },
+  {
+    "user_input": "Hi, I'm having some trouble with my laptop.",
+    "target_output": "Hi there! I'm sorry to hear that. Is this a new issue you're facing, or have you contacted us about it before?"
+  },
+  {
+    "user_input": "This is a new problem. It keeps freezing all the time.",
+    "target_output": "Thanks for letting me know. To better understand the issue, can you tell me a bit more about when the freezing typically happens? Is it during specific tasks or randomly?"
+  },
+  {
+    "user_input": "It seems to freeze more often when I have multiple programs open.",
+    "target_output": "I see. Unfortunately, I can't diagnose the issue myself, but a technician can definitely help. Would you like to schedule a visit for one at your place?"
+  },
+  {
+    "user_input": "Yes, that would be great. Is there an afternoon slot available on Monday?",
+    "target_output": "Absolutely! Afternoon slots are available on Monday. Can I get your full name to schedule the visit?"
+  },
+  {
+    "user_input": "Sure, it's Sarah Jones.",
+    "target_output": "Thanks, Sarah. Can you provide your contact phone number in case we need to reach you beforehand?"
+  },
+  {
+    "user_input": "My number is 555-123-4567.",
+    "target_output": "Great! And do you happen to have your address handy, including the pincode, for the technician visit?"
+  },
+  {
+    "user_input": "No, I dont't know my address",
+    "target_output": "No worries, Sarah. We can still schedule the visit. A technician will be available to see you on Monday afternoon. Is there anything else you'd like to tell us about the issue in the meantime?"
+  },
+  {
+    "user_input": "No, that's all for now. Thanks!",
+    "target_output": "You're welcome, Sarah. A technician will be at your place on Monday afternoon to diagnose the issue. We'll send you a confirmation message shortly."
+  },
+  {
+    "user_input": "Hello, my laptop screen keeps flickering.  I contacted you about this a while back.",
+    "target_output": "Hi there!  We apologize for the ongoing screen issue. Can you confirm your full name so we can pull up your previous service request?"
+  },
+  {
+    "user_input": "It's David Miller.",
+    "target_output": "Thanks, David.  We see your previous service request.  Would you like to schedule another technician visit to address the flickering screen again?"
+  },
+  {
+    "user_input": "No, I dont't know my contact number.",
+    "target_output": "No problem, David. We can still schedule the visit based on your previous information.  When would you prefer a technician to visit?"
+  },
+  {
+    "user_input": "I'm free on Tuesday morning.",
+    "target_output": "Great, a technician can visit you on Tuesday morning.  Is there anything specific you noticed about the flickering that might help us diagnose the issue?"
+  },
+  {
+    "user_input": "Hi, I spilled coffee on my keyboard and now some keys aren't working.  This is a new issue.",
+    "target_output": "Hi there!  I understand that can be frustrating.  Since it's a new issue and liquid damage is involved, a technician visit might be necessary.  Would you like to schedule one?"
+  },
+  {
+    "user_input": "Yes, please.  Can someone come on Wednesday evening?",
+    "target_output": "Wednesday evening works!  Can I get your full name to schedule the visit?"
+  },
+  {
+    "user_input": "It's Emily Lee.",
+    "target_output": "Thanks, Emily.  To ensure the technician has all the information, can you tell us the address, including the pincode, where you'd like the visit to take place?"
+  },
+  {
+    "user_input": "Hi, my laptop keeps restarting unexpectedly. It's a Dell Inspiron 15 3000 series.",
+    "target_output": "Hi there! I'm sorry to hear that your Dell Inspiron 15 3000 series is restarting. To troubleshoot better, can you tell me when these restarts typically happen?"
+  },
+  {
+    "user_input": "It seems to restart more often when the laptop is plugged in and charging.",
+    "target_output": "Thanks for that information. It could be a power supply issue with the Dell Inspiron. Would you like to schedule a visit for a technician to diagnose the problem?"
+  },
+  {
+    "user_input": "Sure, that sounds good. Afternoon on Thursday would be great.",
+    "target_output": "Absolutely! Afternoon slots are available on Thursday. Can I get your full name to schedule the visit?"
+  },
+  {
+    "user_input": "Of course, it's Michael Brown.",
+    "target_output": "Thanks, Michael. Can you provide your contact phone number in case we need to reach you beforehand?"
+  },
+  {
+    "user_input": "My number is (555) 555-1212.",
+    "target_output": "Great! And do you happen to have your address, including the pincode, for the technician visit?"
+  },
+  {
+    "user_input": "Sure, it's 123 Main Street, Anytown, CA 12345.",
+    "target_output": "Thanks, Michael. A technician will be available to see you on Thursday afternoon to diagnose the issue with your Dell Inspiron 15 3000 series. We'll send you a confirmation message shortly."
+  },
+  {
+    "user_input": "Hello, my HP Pavilion x360 keeps overheating. It's a fairly new model.",
+    "target_output": "Hi there!  We can definitely help with overheating issues.  Can you tell us the specific model number of your HP Pavilion x360 for reference?"
+  },
+  {
+    "user_input": "Yes, please.  Friday morning would work best for me.",
+    "target_output": "Friday morning works!  Can I get your full name to schedule the visit?"
+  }
+]
