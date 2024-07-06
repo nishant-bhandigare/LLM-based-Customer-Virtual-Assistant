@@ -5,10 +5,18 @@ import google.generativeai as genai
 from google.generativeai.types import HarmCategory, HarmBlockThreshold
 app = Flask(__name__)
 from pymongo import MongoClient
+import os
+from os.path import join, dirname
+from dotenv import load_dotenv
 
-GOOGLE_API_KEY='AIzaSyBV6WygToEtDgr1GDCNdHOnCUP18AXeO7A'
+dotenv_path = join(dirname(__file__), '.env')
+load_dotenv(dotenv_path)
+
+# SECRET_KEY = os.environ.get("SECRET_KEY")
+# DATABASE_PASSWORD = os.environ.get("DATABASE_PASSWORD")
+GOOGLE_API_KEY=os.environ.get("GOOGLE_API_KEY")
 genai.configure(api_key=GOOGLE_API_KEY)
-uri = "mongodb+srv://adityalawate2004:ljYTFSVUS1ZcZQdh@threads.riq9cuf.mongodb.net/?retryWrites=true&w=majority&appName=Threads"    
+uri = os.environ.get("URI")
 
 # App initialization
 generation_config = {    
