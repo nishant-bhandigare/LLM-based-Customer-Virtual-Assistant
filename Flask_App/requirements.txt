@@ -1,0 +1,5 @@
+pymongo 
+flask
+jsonify
+google-generativeai
+gunicorn
